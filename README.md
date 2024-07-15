@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
