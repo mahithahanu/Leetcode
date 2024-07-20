@@ -31,8 +31,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahithahanu/Leetcode/tree/master/0002-add-two-numbers) |
+| [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahithahanu/Leetcode/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
