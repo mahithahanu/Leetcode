@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mahithahanu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahithahanu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
