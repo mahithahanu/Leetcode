@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Backtracking
@@ -58,6 +59,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Combinatorics
