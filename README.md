@@ -59,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
