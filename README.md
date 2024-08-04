@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
