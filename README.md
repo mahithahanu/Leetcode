@@ -65,6 +65,7 @@
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mahithahanu/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/mahithahanu/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/mahithahanu/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -104,4 +105,12 @@
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/mahithahanu/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
