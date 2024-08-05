@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahithahanu/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
