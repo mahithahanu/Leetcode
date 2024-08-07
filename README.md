@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/mahithahanu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahithahanu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahithahanu/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -97,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/mahithahanu/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -116,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mahithahanu/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
