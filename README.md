@@ -49,6 +49,7 @@
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2406-decode-the-message](https://github.com/mahithahanu/Leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2406-decode-the-message](https://github.com/mahithahanu/Leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/mahithahanu/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Counting
