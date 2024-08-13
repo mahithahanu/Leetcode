@@ -20,6 +20,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/mahithahanu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/mahithahanu/Leetcode/tree/master/2406-decode-the-message) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
@@ -75,6 +77,7 @@
 | [2058-concatenation-of-array](https://github.com/mahithahanu/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/mahithahanu/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
