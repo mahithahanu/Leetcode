@@ -21,6 +21,7 @@
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/mahithahanu/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/mahithahanu/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mahithahanu/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -136,4 +138,9 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mahithahanu/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
