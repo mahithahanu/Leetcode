@@ -66,6 +66,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahithahanu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
+| [0624-maximum-distance-in-arrays](https://github.com/mahithahanu/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahithahanu/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -129,6 +130,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/mahithahanu/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mahithahanu/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
