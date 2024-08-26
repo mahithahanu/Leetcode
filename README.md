@@ -98,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mahithahanu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/mahithahanu/Leetcode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mahithahanu/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/mahithahanu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -152,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mahithahanu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
@@ -160,6 +162,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahithahanu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mahithahanu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mahithahanu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mahithahanu/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -186,6 +189,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahithahanu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mahithahanu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mahithahanu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mahithahanu/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
