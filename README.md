@@ -30,6 +30,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mahithahanu/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahithahanu/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahithahanu/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mahithahanu/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/mahithahanu/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -180,6 +182,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mahithahanu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mahithahanu/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahithahanu/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mahithahanu/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/mahithahanu/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -195,6 +198,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mahithahanu/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahithahanu/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahithahanu/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mahithahanu/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/mahithahanu/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -204,6 +208,7 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahithahanu/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahithahanu/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
