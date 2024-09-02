@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mahithahanu/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -81,6 +82,7 @@
 | [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mahithahanu/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mahithahanu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahithahanu/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
