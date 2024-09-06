@@ -12,6 +12,7 @@
 | [0328-odd-even-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mahithahanu/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mahithahanu/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [2406-decode-the-message](https://github.com/mahithahanu/Leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mahithahanu/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/mahithahanu/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mahithahanu/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mahithahanu/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
