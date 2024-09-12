@@ -59,6 +59,7 @@
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2406-decode-the-message](https://github.com/mahithahanu/Leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
@@ -84,6 +85,7 @@
 | [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mahithahanu/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -111,6 +113,7 @@
 | [0476-number-complement](https://github.com/mahithahanu/Leetcode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mahithahanu/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/mahithahanu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mahithahanu/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -130,6 +133,7 @@
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0979-di-string-match](https://github.com/mahithahanu/Leetcode/tree/master/0979-di-string-match) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mahithahanu/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahithahanu/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2406-decode-the-message](https://github.com/mahithahanu/Leetcode/tree/master/2406-decode-the-message) |
@@ -140,6 +144,7 @@
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
