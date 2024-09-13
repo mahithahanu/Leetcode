@@ -80,6 +80,7 @@
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0624-maximum-distance-in-arrays](https://github.com/mahithahanu/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0979-di-string-match](https://github.com/mahithahanu/Leetcode/tree/master/0979-di-string-match) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mahithahanu/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahithahanu/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mahithahanu/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mahithahanu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/mahithahanu/Leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mahithahanu/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mahithahanu/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/mahithahanu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -255,6 +257,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/mahithahanu/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
