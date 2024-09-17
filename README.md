@@ -57,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/mahithahanu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahithahanu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/mahithahanu/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/mahithahanu/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/mahithahanu/Leetcode/tree/master/0979-di-string-match) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mahithahanu/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -146,6 +148,7 @@
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/mahithahanu/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
