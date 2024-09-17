@@ -98,6 +98,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/mahithahanu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/mahithahanu/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/mahithahanu/Leetcode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mahithahanu/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mahithahanu/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/mahithahanu/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -119,6 +120,7 @@
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mahithahanu/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mahithahanu/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/mahithahanu/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Combinatorics
 |  |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mahithahanu/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
