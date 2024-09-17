@@ -56,10 +56,10 @@ class Solution {
                     // map.put(main,1);
                 }
         }
-       if (string3.length() > 0) {
-    String lastWord = string3.toString();
-    map.put(lastWord, map.getOrDefault(lastWord, 0) + 1);
-}
+//        if (string3.length() > 0) {
+//     String lastWord = string3.toString();
+//     map.put(lastWord, map.getOrDefault(lastWord, 0) + 1);
+// }
 
         System.out.println(map);
         for (Map.Entry<String, Integer> entry : map.entrySet()) {
