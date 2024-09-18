@@ -32,6 +32,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahithahanu/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Recursion
@@ -253,6 +254,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahithahanu/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mahithahanu/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
