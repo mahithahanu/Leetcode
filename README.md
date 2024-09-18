@@ -58,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/mahithahanu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahithahanu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/mahithahanu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mahithahanu/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mahithahanu/Leetcode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/mahithahanu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/mahithahanu/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mahithahanu/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/mahithahanu/Leetcode/tree/master/0979-di-string-match) |
@@ -151,6 +153,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mahithahanu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mahithahanu/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahithahanu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -281,4 +284,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/mahithahanu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
