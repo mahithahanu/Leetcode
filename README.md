@@ -35,6 +35,7 @@
 | [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/mahithahanu/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mahithahanu/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -94,6 +96,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mahithahanu/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mahithahanu/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -286,4 +289,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahithahanu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
