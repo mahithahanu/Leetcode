@@ -42,6 +42,7 @@
 | [0002-add-two-numbers](https://github.com/mahithahanu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/mahithahanu/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mahithahanu/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/mahithahanu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/mahithahanu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mahithahanu/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mahithahanu/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mahithahanu/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -75,6 +77,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/mahithahanu/Leetcode/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mahithahanu/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mahithahanu/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -98,6 +101,7 @@
 | [1791-richest-customer-wealth](https://github.com/mahithahanu/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/mahithahanu/Leetcode/tree/master/1839-decode-xored-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mahithahanu/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahithahanu/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mahithahanu/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/mahithahanu/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -290,4 +294,5 @@
 | [0225-implement-stack-using-queues](https://github.com/mahithahanu/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahithahanu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mahithahanu/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mahithahanu/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
